@@ -3,8 +3,6 @@
 
 👀 I’m interested in Full Stack Development, Machine Learning and Cloud.
 
-🌱 I’m currently learning Microservices Architecture and get a better understanding of different Distributed Computing methods which are used in Real World.
-
 📫 Reach me at @hdmodi738@gmail.com
 
 ## 🌐Socials
